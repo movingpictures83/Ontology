@@ -1,0 +1,16 @@
+START
+ID	AROTerms
+mapfile	/disk/delphi/users/tcickovs/PluMA/plugins/Ontology/example/example_dir/aro_centroid.list.txt
+ontology	plugins/Ontology/example///example_dir/aro.obo
+name	Antibiotic Resistance
+color	ff0000
+END
+
+START
+ID	GOTerms
+mapfile	/disk/delphi/users/tcickovs/PluMA/plugins/Ontology/example/example_dir/centroids.mapterm.txt
+ontology	plugins/Ontology/example///example_dir/gene_ontology.1_2.obo
+name	/disk/delphi/users/tcickovs/PluMA/plugins/Ontology/example/example_dir/results/centroids.cluster_roles.txt
+color	/disk/delphi/users/tcickovs/PluMA/plugins/Ontology//cluster_colors.txt
+END
+

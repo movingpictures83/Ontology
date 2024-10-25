@@ -1,0 +1,3 @@
+indir	example_dir
+aroloc	example_dir/aro.obo
+goloc	example_dir/gene_ontology.1_2.obo

@@ -1,0 +1,2 @@
+Prefix plugins/Ontology/example/
+Plugin Ontology inputfile parameters.ontology.txt outputfile ./
